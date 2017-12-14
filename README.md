@@ -1,2 +1,26 @@
-# davidchiu1
-Questions
+
+## Questions
+### Inteded Audience.
+1. The target audience that I have aimed for my website which is called camp china, people who are aged 14-18 years old are aimed within my website as I have made it unique and modern for the younger generation to see and find interest in. We have aimed for the people who are aged 14-18 years old as we believe that helping people who are less unfortunate at a young age can really affect on them and this leads them to support the less unfortunate in the future. Navigation is easier than some websites as the navigation bar is at the top right which navigates you where you want to go. As for the young generation, we find things easier than the older generation as were more capeable of using a website. The young generation have alot of pottentiel to the future which could help us and the Camps all over the world. I have a background video which could interest the younger generation and it  could persuade them to help us in future. My second target audience is the older generation. The reason for this is that people who are old are likely to be more wise and more helpful and having this website can find them a interest in helping out in a camp depending the location they want to go. My website includes a background video which is useful for people for the older genertation as they are easily interested in videos of beautiful places such as china. My navigation bar is in white with a different font so that the older genration can easily find the navigation bar to help them where they need to be. 
+
+### What you are doing
+1.What im doing is that Im creating a website for the invasion corporation for a camp which is based in China or Cannada. I've chosen to do a website about camp china as im more expirenced with the chinese culture. For my website I have included; a navigation bar, logo at the top left, a Logo image at the center middle. I have also added social media iccons for people to follow or like the pages of the companies website. The buttons I have included for the navigation bar are;"Home","About Us","Explore" and "Apply-CampChina". These buttons help the old generation to navigate where they need to go. The big logo I have made at the center looks more unique within websites which would make interest into alot of people. 
+
+### What are you aiming to archive. 
+My aim is to get as many people to find interest on what my website is about and see if both of my target audiences are also interested in the website. I would like my website to be consistent and reliable to the company if they ever use it for their own official website of camp china.I want my website to get the information across to the people who are viewing it so they can understand why were doing this camp and why were running it. 
+
+### Constraints 
+Things that holds me back is that time is limited to me as I don't have much time on my hands as I have work almost everyday but I try to put in some codding after work which helps with having to do more at college. These past weeks we have been getting ddos attacks from people and our internet service also gets cyber attacked which affects me when im codding for the website. 
+As christmas is near I haven't been ablt to do any codding as I've been busy with alot of work and shopping, with my days off I have time to do some codding to improve my website however these hour's aren't enough for me. 
+
+### Benefits 
+The benefits I have had is that I have enough time to design my website and make it look good, if I had left it as it was then it would look terrible, without any changes then my website would probably collaspe. I've got some help from other people and idea's which helped me to do my website as it is today. 
+Fonts and others which gave me ideas help me make my website look more cultural to the chinese culture. Having to learn html, this would benifit me when i make my website which 
+
+### Nature of interactivity
+Things that I have on my website that will allow you to interactive with are buttons, social media icons and the logo, more stuff are going to be added as such as "Join us" button which allows that button to relocate that person to the Americamp website. 
+A button which allows people to send their emails to us is going to be placed in the "Contact us" page which allow people to email us if there are any concerns when there is anything wrong within the website or Camp site. I have different types of buttons that can be accessed by the navigation bar. 
+
+### Complexcity of website
+Things that are complex within the website are that I've added a background video to my website making it more unique to the users when they view the website. This would cause more interest to the viewers and this would probably persuade them more to support our camp. The logo in the middle of the home page was customally designed to fit in our website to make it more eye opening to the viewers and to the invasion company itself. I used different fonts which made my website more unique and it would fit in with the chinese culture as well.
+My navigation bar highlight are different, Once you hover over the word then that word would turn gold and above it there would be a line that would turn red, I've chosen these colours which represent the chinese flag. 
